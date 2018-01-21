@@ -1,0 +1,26 @@
+{
+  "name": "rainbowowl",
+  "version": "1.0.0",
+  "description": "Team colour Philips Hue lights for the Overwatch League",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PkerUNO/RainbowOWL.git"
+  },
+  "author": "Richard Whittaker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PkerUNO/RainbowOWL/issues"
+  },
+  "homepage": "https://github.com/PkerUNO/RainbowOWL#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "huejay": "^1.7.4"
+  },
+  "devDependencies": {
+    "eslint": "^4.16.0"
+  }
+}
