@@ -1,0 +1,9 @@
+{
+	"hue": {
+		"bridge": {
+			"host": "192.168.1.65",
+			"username": "3RINnVLTn-fKbTGDnU-S7RQvFqngQiPJGD3ygVpx"
+		},
+		"lights": [1, 5, 7, 8]
+	}
+}
